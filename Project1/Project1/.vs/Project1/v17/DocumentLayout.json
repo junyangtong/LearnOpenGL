@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LearnOpenGL\\Project1\\Project1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE18D9E-3212-408A-851A-40FB4E89ECDD}|Project1.vcxproj|D:\\LearnOpenGL\\Project1\\Project1\\001.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FFE18D9E-3212-408A-851A-40FB4E89ECDD}|Project1.vcxproj|solutionrelative:001.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE18D9E-3212-408A-851A-40FB4E89ECDD}|Project1.vcxproj|D:\\LearnOpenGL\\Project1\\Project1\\3.3.shader.vs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FFE18D9E-3212-408A-851A-40FB4E89ECDD}|Project1.vcxproj|solutionrelative:3.3.shader.vs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE18D9E-3212-408A-851A-40FB4E89ECDD}|Project1.vcxproj|D:\\LearnOpenGL\\Project1\\Project1\\3.3.shader.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
+      "RelativeMoniker": "D:0:0:{FFE18D9E-3212-408A-851A-40FB4E89ECDD}|Project1.vcxproj|solutionrelative:3.3.shader.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "001.cpp",
+              "DocumentMoniker": "D:\\LearnOpenGL\\Project1\\Project1\\001.cpp",
+              "RelativeDocumentMoniker": "001.cpp",
+              "ToolTip": "D:\\LearnOpenGL\\Project1\\Project1\\001.cpp",
+              "RelativeToolTip": "001.cpp",
+              "ViewState": "AQIAACAAAAAAAAAAAAAqwD0AAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-18T02:14:55.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "3.3.shader.fs",
+              "DocumentMoniker": "D:\\LearnOpenGL\\Project1\\Project1\\3.3.shader.fs",
+              "RelativeDocumentMoniker": "3.3.shader.fs",
+              "ToolTip": "D:\\LearnOpenGL\\Project1\\Project1\\3.3.shader.fs",
+              "RelativeToolTip": "3.3.shader.fs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-18T03:17:48.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "3.3.shader.vs",
+              "DocumentMoniker": "D:\\LearnOpenGL\\Project1\\Project1\\3.3.shader.vs",
+              "RelativeDocumentMoniker": "3.3.shader.vs",
+              "ToolTip": "D:\\LearnOpenGL\\Project1\\Project1\\3.3.shader.vs",
+              "RelativeToolTip": "3.3.shader.vs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-18T03:17:54.69Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
