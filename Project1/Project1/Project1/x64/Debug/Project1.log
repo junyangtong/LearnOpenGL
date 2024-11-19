@@ -20,4 +20,4 @@ glfw3.lib(osmesa_context.obj) : warning LNK4099: 未找到 PDB“”(使用“gl
 glfw3.lib(null_monitor.obj) : warning LNK4099: 未找到 PDB“”(使用“glfw3.lib(null_monitor.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
 glfw3.lib(null_window.obj) : warning LNK4099: 未找到 PDB“”(使用“glfw3.lib(null_window.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
 glfw3.lib(null_joystick.obj) : warning LNK4099: 未找到 PDB“”(使用“glfw3.lib(null_joystick.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
-  Project1.vcxproj -> D:\LearnOpenGL\Project1\Project1\x64\Debug\Project1.exe
+  Project1.vcxproj -> D:\LearnOpenGL\Project1\Project1\Project1.exe

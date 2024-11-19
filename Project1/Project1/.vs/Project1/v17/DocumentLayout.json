@@ -7,12 +7,16 @@
       "RelativeMoniker": "D:0:0:{FFE18D9E-3212-408A-851A-40FB4E89ECDD}|Project1.vcxproj|solutionrelative:001.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FFE18D9E-3212-408A-851A-40FB4E89ECDD}|Project1.vcxproj|D:\\LearnOpenGL\\Project1\\Project1\\3.3.shader.vs||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{FFE18D9E-3212-408A-851A-40FB4E89ECDD}|Project1.vcxproj|solutionrelative:3.3.shader.vs||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{FFE18D9E-3212-408A-851A-40FB4E89ECDD}|Project1.vcxproj|D:\\LearnOpenGL\\Project1\\Project1\\camera.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FFE18D9E-3212-408A-851A-40FB4E89ECDD}|Project1.vcxproj|solutionrelative:camera.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FFE18D9E-3212-408A-851A-40FB4E89ECDD}|Project1.vcxproj|D:\\LearnOpenGL\\Project1\\Project1\\3.3.shader.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
       "RelativeMoniker": "D:0:0:{FFE18D9E-3212-408A-851A-40FB4E89ECDD}|Project1.vcxproj|solutionrelative:3.3.shader.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE18D9E-3212-408A-851A-40FB4E89ECDD}|Project1.vcxproj|D:\\LearnOpenGL\\Project1\\Project1\\3.3.shader.vs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FFE18D9E-3212-408A-851A-40FB4E89ECDD}|Project1.vcxproj|solutionrelative:3.3.shader.vs||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,9 +36,26 @@
               "RelativeDocumentMoniker": "001.cpp",
               "ToolTip": "D:\\LearnOpenGL\\Project1\\Project1\\001.cpp",
               "RelativeToolTip": "001.cpp",
-              "ViewState": "AQIAACAAAAAAAAAAAAAqwD0AAABMAAAA",
+              "ViewState": "AQIAAN4AAAAAAAAAAAASwPgAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-18T02:14:55.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "camera.h",
+              "DocumentMoniker": "D:\\LearnOpenGL\\Project1\\Project1\\camera.h",
+              "RelativeDocumentMoniker": "camera.h",
+              "ToolTip": "D:\\LearnOpenGL\\Project1\\Project1\\camera.h",
+              "RelativeToolTip": "camera.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAH4AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-19T03:22:20.826Z",
               "EditorCaption": ""
             },
             {
@@ -45,20 +66,20 @@
               "RelativeDocumentMoniker": "3.3.shader.fs",
               "ToolTip": "D:\\LearnOpenGL\\Project1\\Project1\\3.3.shader.fs",
               "RelativeToolTip": "3.3.shader.fs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2024-11-18T03:17:48.194Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "3.3.shader.vs",
               "DocumentMoniker": "D:\\LearnOpenGL\\Project1\\Project1\\3.3.shader.vs",
               "RelativeDocumentMoniker": "3.3.shader.vs",
               "ToolTip": "D:\\LearnOpenGL\\Project1\\Project1\\3.3.shader.vs",
               "RelativeToolTip": "3.3.shader.vs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAuAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2024-11-18T03:17:54.69Z",
               "EditorCaption": ""
